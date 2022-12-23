@@ -24,8 +24,12 @@ The Organization
 
 ### The system
 
-## __Hospital Que System__
+## __Hospital Qeue System__
 
+* The purpose of the hospital qeue systems are as helpful for the hospital receptionists as they are to the patients. Front desk workers can keep track of the number of patients in line and the number of no-shows. With just a single click, they can reshuffle patient lists, update cancellations, close appointments and track the payment status.
+
+
+* A possible subsystem of the register qeue client would a a urgency level so that the system could distinguish what patient needs urgent care than a patient that is scheduled for a check-up.
 
 
 
