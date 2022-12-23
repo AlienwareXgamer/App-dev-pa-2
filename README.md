@@ -7,7 +7,7 @@
 
 ### **Lingap - Southern Philippine Medical Center**
 
- The frameworks FEVN that will be used in the process
+ The framework FEVN that will be used in the process.
  
  <img src= https://user-images.githubusercontent.com/77378354/209252797-4ebbdf5d-0388-40a5-8dee-2ef44eb1a81c.png width="100px">
 
@@ -25,6 +25,9 @@
 
 * Node js
 
+#### The name of the system
+
+### Hospital Que System
 
 
 
