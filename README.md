@@ -1,13 +1,13 @@
 
-#### Prelim Activity 2 
+# Prelim Activity 2 
 
-* The Organization
+The Organization
 
 <img src= https://user-images.githubusercontent.com/77378354/209249194-54b06eca-ac60-4e2f-9a8b-22c936aec3cb.png width="150px">
 
 ### **Lingap - Southern Philippine Medical Center**
 
- The framework FEVN that will be used in the process.
+## The framework FEVN that will be used in the process.
  
  <img src= https://user-images.githubusercontent.com/77378354/209252797-4ebbdf5d-0388-40a5-8dee-2ef44eb1a81c.png width="100px">
 
@@ -25,9 +25,9 @@
 
 * Node js
 
-#### The name of the system
+### The system
 
-### Hospital Que System
+## __Hospital Que System__
 
 
 
